@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+div.body {
+	background-color:#f5f5f5;
+	display:flex;
+	justify-content:center;
+	justify-items:center;
+	gap: 20px;
+	background-color: white;
+}
+
+#header {
+	background-color:#011e29;
+	color:white;
+	text-align: center;
+}
+
+img {
+	width:300px;
+}
+
+.latest-news-section {
+	width:20%;
+}
+
+.main {
+	width:50%;
+	/* background-color: white; */
+	
+}
+
+.pictorial-news-section {
+	width:30%;
+    height: 40%;
+	text-align:center;
+	/* background-color: white; */
+}
+
+
